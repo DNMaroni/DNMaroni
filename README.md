@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Olá, meu nome é Daniel e trabalho como WEB Developer, além de estudante 👨‍💻 & gamer/otaku nas horas vagas 🎮 -  from Brasil 🇧🇷
+  Olá, meu nome é Daniel e trabalho como WEB Developer e possuo 2.5 anos de experiência, além de estudante 💻 & gamer/otaku nas horas vagas 🎮 -  from Brasil 🇧🇷
   <br>
   <br>
   🎓 Cursando Ciência da Computação (8/10) na <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
@@ -29,7 +29,7 @@
 <br><br><br><br><br>
 
 <hr>
-<h2 align="center">🔥 Linguagens/Frameworks/Ferramentas utilizadas || em estudo 🔥</h2>
+<h2 align="center">⚙️ Linguagens/Frameworks/Ferramentas utilizadas || em estudo 📚</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
