@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DNMaroni.DNMaroni">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Olá, meu nome é Daniel e trabalho como WEB Developer, além de estudante 👨‍💻 & gamer/otaku nas horas vagas 🦸‍♂️ -  from Brasil 🇧🇷
+  Olá, meu nome é Daniel e trabalho como WEB Developer, além de estudante 👨‍💻 & gamer/otaku nas horas vagas 🎮 -  from Brasil 🇧🇷
   <br>
   <br>
   🎓 Cursando Ciência da Computação (8/10) na <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
@@ -27,7 +27,7 @@
 </div>
 
 <hr>
-<h2 align="center">🔥 Linguagens-Frameworks-Ferramentas 🔥</h2>
+<h2 align="center">🔥 Linguagens/Frameworks/Ferramentas utilizadas || em estudo 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,13 +36,7 @@
 
   </a>
 </p>
-<br>
-<h4>Aprendendo</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
-  </a>
-</p>
+
 <hr>
 
 <div align="center">
@@ -76,7 +70,6 @@
   <br>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=DNMaroni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
