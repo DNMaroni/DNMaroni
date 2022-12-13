@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I'm+Daniel+Maroni!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem+vindo(a)!+👋;Sou+Daniel+Maroni!;&center=true&size=30">
   </a>
 </h1>
 
@@ -26,6 +26,8 @@
  
 </div>
 
+<br><br><br><br><br>
+
 <hr>
 <h2 align="center">🔥 Linguagens/Frameworks/Ferramentas utilizadas || em estudo 🔥</h2>
 <br>
@@ -36,7 +38,7 @@
 
   </a>
 </p>
-
+<br><br><br><br><br>
 <hr>
 
 <div align="center">
@@ -74,7 +76,7 @@
 
 <hr>
 
-<br><br><br><br><br><br>
+<br>
 
 <h4 align="center">
   <a href="https://github.com/DNMaroni?tab=repositories" title="Show Repositories">🔎 Todos meus repositórios 🔍</a>
