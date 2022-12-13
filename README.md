@@ -46,7 +46,7 @@
   <br>
   <img alt="snake eating my contribution" src="https://github.com/DNMaroni/DNMaroni/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <br>
+  <p align="center">Peço perdão por não alimentar a cobra direito, mas a conta é nova e ainda pretendo dar vários commits para alimentá-la 🍴🐍 </p>
   <br>
 </div>
 
