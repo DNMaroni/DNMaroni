@@ -11,20 +11,16 @@
   Olá, meu nome é Daniel e trabalho como WEB Developer fazem 2 anos, além de estudante 💻 & gamer/otaku nas horas vagas 🎮 -  from Brasil 🇧🇷
   <br>
   <br>
-  <br>
   🎓 Cursando Ciência da Computação (8/10) na <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
-  <br>
   💻 Adoro aprender novas tecnologias e frameworks.
-  <br>
   <br>
   <br>
   🧑‍💼 Atualmente trabalho criando/atualizando/mantendo aplicações como sites/sistemas/aplicativos utilizando PHP/JS/HTML/Flutter na empresa <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>
   <br>
 </p>
 
-<br>
 <br>
 
 <div align="center"> 
@@ -34,7 +30,7 @@
  
 </div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <hr>
 <h2 align="center">⚙️ Linguagens/Frameworks/Ferramentas utilizadas || em estudo 📚</h2>
@@ -46,7 +42,7 @@
 
   </a>
 </p>
-<br><br><br><br><br>
+<br><br><br>
 <hr>
 
 <div align="center">
