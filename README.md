@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC-AMmpyVYPLGOt31jUARpoQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:169481@upf.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:169481@upf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-maroni-6426a7175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/orewadanieru/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
@@ -37,11 +37,10 @@
 <h2 align="center">⚙️ Linguagens/Frameworks/Ferramentas utilizadas || em estudo 📚</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,git,php,github,python,html,javascript,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode" />
-
-  </a>
+    (Flutter, Git, Php, Github, Python, Html, Javascript, Css, Scss)
+    <img src="https://skillicons.dev/icons?i=flutter,git,php,github,python,html,javascript,css,scss" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode,insomnia" />
+    (Mysql, Postgres, Java, C, C++, Linux, Vscode, Insomnia)
 </p>
 <br><br><br>
 <hr>
