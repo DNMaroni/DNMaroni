@@ -37,10 +37,9 @@
 <h2 align="center">⚙️ Linguagens/Frameworks/Ferramentas utilizadas || em estudo 📚</h2>
 <br>
 <p align="center">
-    (Flutter, Git, Php, Github, Python, Html, Javascript, Css, Scss)
-    <img src="https://skillicons.dev/icons?i=flutter,git,php,github,python,html,javascript,css,scss" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode,insomnia" />
-    (Mysql, Postgres, Java, C, C++, Linux, Vscode, Insomnia)
+    (Flutter, Git, Php, Github, Python, Html, Javascript, Css, Scss, Mysql, Postgres, Java, C, C++, Linux, vscode)<br>
+    <img src="https://skillicons.dev/icons?i=flutter,git,php,github,python,html,javascript,css,scss" /><img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode" />
+    
 </p>
 <br><br><br>
 <hr>
