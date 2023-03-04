@@ -17,6 +17,9 @@
   💻 Adoro aprender novas tecnologias e frameworks.
   <br>
   <br>
+  私は日本語を勉強します 🇯🇵👺
+  <br>
+  <br>
   🧑‍💼 Atualmente trabalho criando/atualizando/mantendo aplicações como sites/sistemas/aplicativos utilizando PHP/JS/HTML/Flutter na empresa <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>
   <br>
 </p>
