@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Olá, meu nome é Daniel e trabalho como Web/Mobile Developer fazem quase 3 anos, além de estudante 💻 & gamer/otaku nas horas vagas 🎮 -  from Brasil 🇧🇷
+  Olá, meu nome é Daniel e trabalho como Web/Mobile Developer fazem quase 3 anos.
   <br>
   <br>
   🎓 Cursando Ciência da Computação (8/10) na <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
@@ -17,10 +17,10 @@
   💻 Busco aprender novas tecnologias e frameworks.
   <br>
   <br>
-  私は日本語を勉強します 🇯🇵👺
-  <br>
-  <br>
   🧑‍💼 Atualmente trabalho criando/atualizando/mantendo aplicações como sites/sistemas/aplicativos utilizando PHP/JS/HTML/Flutter na empresa <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>
+  <br>
+  <br>
+  私は日本語を勉強します 🇯🇵👺
   <br>
 </p>
 
