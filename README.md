@@ -48,11 +48,11 @@
 <hr>
 
 <div align="center">
-  <h2>🐍 A cobra come minhas contribuições... 🐍</h2>
+  <h2>🐍 A cobra come meus commits... 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/DNMaroni/DNMaroni/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <p align="center">Peço perdão por não alimentar a cobra direito, mas a conta é nova e ainda pretendo dar vários commits para alimentá-la 🍴🐍 </p>
+  <p align="center">Peço perdão por não alimentar a cobra direito, se não existem commits provavelmente não estou codando no momento... 🍴🐍 </p>
   <br>
 </div>
 
