@@ -2,22 +2,22 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+bem+vindo(a)!+👋;Sou+Daniel+Maroni!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I'm+Daniel+Maroni!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Olá, meu nome é Daniel e trabalho como Web/Mobile Developer a mais de 3 anos.
+  Hey there! My name is Daniel and i'm a Web/Mobile Developer.
   <br>
   <br>
-  🎓 Cursando Ciência da Computação (9/10) na <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
+  🎓 Currently attending to Computer Science degree (9/10) at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
-  💻 Busco aprender novas tecnologias e frameworks.
+  💻 I'm always learning new tools and technologies.
   <br>
   <br>
-  🧑‍💼 Atualmente trabalho criando/atualizando/mantendo aplicações como sites/sistemas/aplicativos utilizando PHP/JS/HTML/Flutter na empresa <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>
+  🧑‍💼 Working at <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>, Creating/Updating/Fixing-> Websites/MobileApps/WebSystems.
   <br>
   <br>
   私は日本語を勉強します 🇯🇵
@@ -37,7 +37,7 @@
 <br><br><br>
 
 <hr>
-<h2 align="center">⚙️ Linguagens/Frameworks/Ferramentas utilizadas || em estudo 📚</h2>
+<h2 align="center">⚙️ Languages/Frameworks/Tools used  || currently learning 📚</h2>
 <br>
 <p align="center">
     (Flutter, Git, Php, Github, Python, Html, Javascript, Css, Scss, Mysql, Postgres, Java, C, C++, Linux, vscode)<br>
@@ -48,11 +48,11 @@
 <hr>
 
 <div align="center">
-  <h2>🐍 A cobra come meus commits... 🐍</h2>
+  <h2>🐍 The snake eat my commits... 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/DNMaroni/DNMaroni/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <p align="center">Peço perdão por não alimentar a cobra direito, se não existem commits provavelmente não estou codando no momento... 🍴🐍 </p>
+  <p align="center">If there's no food, probably i'm busy with University Homework. 🍴🐍 </p>
   <br>
 </div>
 
