@@ -11,13 +11,13 @@
   Hey there 👋! My name is Daniel and i'm a Web/Mobile Developer.
   <br>
   <br>
-  🎓 Currently attending to Computer Science degree (9/10) at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
+  🎓 Currently attending to Computer Science degree (10/10) at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
   💻 I'm always learning new tools and technologies.
   <br>
   <br>
-  🧑‍💼 Working at <a href="https://objetivasoftware.com.br/"> Objetiva Software </a>, Creating/Updating/Fixing-> Websites/MobileApps/WebSystems.
+  🧑‍💼 3+ years of experience-> Creating/Updating/Fixing-> Websites/MobileApps/WebSystems.
   <br>
   <br>
   From Brazil 🇧🇷
