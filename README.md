@@ -8,10 +8,10 @@
 
 <br>
 <p align="center">
-  Hey there 👋! My name is Daniel and i'm a Web/Mobile Developer.
+  Hey there 👋! My name is Daniel and i'm a Mid-Level Fullstack Developer.
   <br>
   <br>
-  🎓 Currently attending to Computer Science degree (10/10) at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
+  🎓 Graduated in Computer Science at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
   💻 I'm always learning new tools and technologies.
@@ -55,7 +55,7 @@
   <br>
   <img alt="snake eating my contribution" src="https://github.com/DNMaroni/DNMaroni/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <p align="center">If there's no food, probably i'm busy with University Homework. 🍴🐍 </p>
+  <p align="center">From time to time there may not be food here🍴🐍 </p>
   <br>
 </div>
 
