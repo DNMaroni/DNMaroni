@@ -11,6 +11,9 @@
   Hey there 👋! My name is Daniel and i'm a Mid-Level Fullstack Developer.
   <br>
   <br>
+  Personal Website: https://danielmaroni.com
+  <br>
+  <br>
   🎓 Graduated in Computer Science at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
