@@ -8,19 +8,19 @@
 
 <br>
 <p align="center">
-  Hey there 👋! My name is Daniel and i'm a Mid-Level Fullstack Developer.
+  Hey there 👋 I'm Daniel, a mid-level Fullstack Developer.
   <br>
   <br>
   Personal Website: https://danielmaroni.com
   <br>
   <br>
-  🎓 Graduated in Computer Science at <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
+  🎓 I hold a degree in Computer Science from <a href="https://upf.br/"> Universidade de Passo Fundo (UPF).</a>
   <br>
   <br>
-  💻 I'm always learning new tools and technologies.
+  💻 I'm always exploring and learning new tools and technologies.
   <br>
   <br>
-  🧑‍💼 3+ years of experience-> Creating/Updating/Fixing-> Websites/MobileApps/WebSystems.
+  🧑‍💼 Over 4 years of experience in creating, updating, and maintaining websites, mobile apps, and web systems.
   <br>
   <br>
   From Brazil 🇧🇷
@@ -43,22 +43,22 @@
 <br><br><br>
 
 <hr>
-<h2 align="center">⚙️ Languages/Frameworks/Tools used  || currently learning 📚</h2>
+<h2 align="center">⚙️ Technologies I use || Currently learning 📚</h2>
 <br>
 <p align="center">
-    (Flutter, Git, Php, Github, Python, Html, Javascript, Css, Scss, Mysql, Postgres, Java, C, C++, Linux, vscode)<br>
-    <img src="https://skillicons.dev/icons?i=flutter,git,php,github,python,html,javascript,css,scss" /><img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode" />
+    (Flutter, Git, PHP, Laravel, Github, Python, HTML, Javascript, CSS, SCSS, Tailwind, Mysql, Postgres, Java, C, C++, Linux, VSCode, React, Nextjs)<br>
+    <img src="https://skillicons.dev/icons?i=flutter,git,php,laravel,github,python,html,javascript,css,scss,tailwind" /><img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode,react,nextjs" />
     
 </p>
 <br><br><br>
 <hr>
 
 <div align="center">
-  <h2>🐍 The snake eat my commits... 🐍</h2>
+  <h2>🐍 The snake might eat my contribution! 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/DNMaroni/DNMaroni/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <p align="center">From time to time there may not be food here🍴🐍 </p>
+  <p align="center">Sometimes, there may be no food available here."🍴🐍 </p>
   <br>
 </div>
 
