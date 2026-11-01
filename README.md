@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hey there 👋 I'm Daniel, a mid-level Fullstack Developer.
+  Hey there 👋 I'm Daniel, a Senior Software Engineer.
   <br>
   <br>
   Personal Website: https://danielmaroni.com
@@ -20,7 +20,7 @@
   💻 I'm always exploring and learning new tools and technologies.
   <br>
   <br>
-  🧑‍💼 Over 4 years of experience in creating, updating, and maintaining websites, mobile apps, and web systems.
+  🧑‍💼 Over 6 years of experience in creating, updating, and maintaining websites, mobile apps, and web systems.
   <br>
   <br>
   From Brazil 🇧🇷
@@ -46,7 +46,7 @@
 <h2 align="center">⚙️ Technologies I use || Currently learning 📚</h2>
 <br>
 <p align="center">
-    (Flutter, Git, PHP, Laravel, Github, Python, HTML, Javascript, CSS, SCSS, Tailwind, Mysql, Postgres, Java, C, C++, Linux, VSCode, React, Nextjs)<br>
+    (IA, Flutter, Git, PHP, Laravel, Github, Python, HTML, Javascript, CSS, SCSS, Tailwind, Mysql, Postgres, Java, C, C++, Linux, VSCode, React, Nextjs)<br>
     <img src="https://skillicons.dev/icons?i=flutter,git,php,laravel,github,python,html,javascript,css,scss,tailwind" /><img src="https://skillicons.dev/icons?i=mysql,postgres,java,c,cpp,linux,vscode,react,nextjs" />
     
 </p>
